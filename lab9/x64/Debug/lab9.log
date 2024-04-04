@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\University\year3_semester1\GP\lab9\lab9\main.cpp(66,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\University\year3_semester1\GP\lab9\lab9\main.cpp(67,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\University\year3_semester1\GP\lab9\lab9\main.cpp(71,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\University\year3_semester1\GP\lab9\lab9\main.cpp(143,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\University\year3_semester1\GP\lab9\lab9\main.cpp(144,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\University\year3_semester1\GP\lab9\lab9\main.cpp(148,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\University\year3_semester1\GP\lab9\lab9\main.cpp(149,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\University\year3_semester1\GP\lab9\lab9\main.cpp(151,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\University\year3_semester1\GP\lab9\lab9\main.cpp(152,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  lab9.vcxproj -> D:\University\year3_semester1\GP\lab9\x64\Debug\lab9.exe

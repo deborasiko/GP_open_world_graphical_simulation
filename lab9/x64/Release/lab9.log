@@ -1,0 +1,22 @@
+﻿  Camera.cpp
+  main.cpp
+D:\University\year3_semester1\GP\projectFinal\lab9\main.cpp(66,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\University\year3_semester1\GP\projectFinal\lab9\main.cpp(67,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\University\year3_semester1\GP\projectFinal\lab9\main.cpp(71,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\University\year3_semester1\GP\projectFinal\lab9\main.cpp(143,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\University\year3_semester1\GP\projectFinal\lab9\main.cpp(144,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\University\year3_semester1\GP\projectFinal\lab9\main.cpp(148,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\University\year3_semester1\GP\projectFinal\lab9\main.cpp(149,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\University\year3_semester1\GP\projectFinal\lab9\main.cpp(151,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\University\year3_semester1\GP\projectFinal\lab9\main.cpp(152,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Mesh.cpp
+  Model3D.cpp
+  Shader.cpp
+  SkyBox.cpp
+  stb_image.cpp
+  tiny_obj_loader.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1835 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  lab9.vcxproj -> D:\University\year3_semester1\GP\projectFinal\x64\Release\projectFinal.exe
